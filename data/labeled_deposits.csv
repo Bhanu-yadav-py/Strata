@@ -1,0 +1,357 @@
+latitude,longitude,name,state_region,source,soil_type,climate_type,confidence,label
+12.80102,77.33679,NEG-CHAR-024,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.11886,78.52924,NEG-QUAT-009,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+12.4098,78.51585,NEG-CHAR-039,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.18942,77.69428,NEG-AREN-029,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+27.20904,71.95,NEG-AEOL-024,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+24.10075,78.28585,NEG-AREN-044,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.81902,72.13451,NEG-AEOL-006,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.71457,76.26319,NEG-VERT-004,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+23.61725,77.96526,NEG-AREN-015,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+27.49224,80.88101,NEG-QUAT-048,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+26.27863,71.94506,NEG-AEOL-009,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+23.76933,78.05525,NEG-AREN-008,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+12.85281,78.69746,NEG-CHAR-007,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+12.55344,78.0703,NEG-CHAR-038,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+19.49807,75.47945,NEG-VERT-024,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+18.94934,74.97475,NEG-VERT-006,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+27.1857,81.992,NEG-QUAT-032,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+12.77925,78.58042,NEG-CHAR-017,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.94101,72.90206,NEG-AEOL-021,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+25.9581,78.64445,NEG-QUAT-033,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+26.13091,79.70483,NEG-QUAT-034,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.20184,75.78597,NEG-VERT-048,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.24442,75.31882,NEG-VERT-019,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+18.63313,75.12832,NEG-VERT-021,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+27.11164,81.64163,NEG-QUAT-010,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+23.7,74.3,Kagdi Mn Deposits,Rajasthan,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.09632,77.78832,NEG-CHAR-005,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.57246,82.87902,NEG-QUAT-016,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+25.8268,80.20755,NEG-QUAT-029,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.73508,76.29841,NEG-VERT-011,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.06506,76.38239,NEG-VERT-013,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+22.8,85.95,Singhbhum Mn Belt,Jharkhand,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+21.45,85.5,Noamundi Mn Zone,Odisha,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+24.24008,77.60435,NEG-AREN-006,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.70232,74.98376,NEG-VERT-016,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+18.80733,75.01666,NEG-VERT-002,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+23.59328,78.12781,NEG-AREN-003,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+21.55,85.9,Koira Mn Area,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+24.41363,78.18617,NEG-AREN-024,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+23.58523,77.71431,NEG-AREN-030,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+15.35,76.55,Bellary Mn District,Karnataka,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.13058,72.18743,NEG-AEOL-026,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.0349,78.29305,NEG-CHAR-018,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+20.38326,86.47336,NEG-HYDR-040,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+11.81421,78.90651,NEG-CHAR-049,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.15881,81.28334,NEG-QUAT-018,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+21.28,79.65,Bhandara Mn District,Maharashtra,IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.86393,75.84638,NEG-VERT-045,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.1029,72.37627,NEG-AEOL-012,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+26.77137,80.14174,NEG-QUAT-024,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.69216,76.30303,NEG-VERT-007,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.42963,72.09368,NEG-AEOL-023,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.80046,86.12416,NEG-HYDR-012,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+18.6347,76.05216,NEG-VERT-012,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.62274,79.68234,NEG-QUAT-040,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+25.92197,82.74309,NEG-QUAT-035,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+21.75,85.6,Bamebari Mine,Odisha,IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+13.19987,77.82993,NEG-CHAR-010,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+15.15,76.92,Sandur Mn Belt,Karnataka,IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.8471,77.40616,NEG-CHAR-019,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+12.99041,78.28074,NEG-CHAR-027,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.00638,72.65668,NEG-AEOL-045,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+20.5301,86.67052,NEG-HYDR-007,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+22.2,78.3,Pandhurna Mn Deposits,Madhya Pradesh,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+25.9558,79.80225,NEG-QUAT-021,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+27.3291,80.56483,NEG-QUAT-038,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+23.86974,78.42246,NEG-AREN-047,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.9904,86.46898,NEG-HYDR-033,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+24.23434,78.97821,NEG-AREN-020,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+12.15318,77.34743,NEG-CHAR-008,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.09417,77.44907,NEG-AREN-032,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+22.42,73.6,Panchmahal Mn Belt,Gujarat,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+27.52765,71.74947,NEG-AEOL-001,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.80918,86.52072,NEG-HYDR-000,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+27.44216,82.37351,NEG-QUAT-049,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+26.87936,72.858,NEG-AEOL-042,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.86572,77.88243,NEG-CHAR-006,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+20.01205,86.67243,NEG-HYDR-021,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+19.05957,76.2694,NEG-VERT-022,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.42337,71.67983,NEG-AEOL-017,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+20.13751,86.07855,NEG-HYDR-045,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+21.52,79.3,Kandri Mn Mines,Maharashtra,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+24.27706,77.31561,NEG-AREN-034,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+25.68549,78.93522,NEG-QUAT-013,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.02133,75.73149,NEG-VERT-046,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.03156,76.32827,NEG-VERT-003,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+24.3424,78.13834,NEG-AREN-028,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+27.19499,81.21677,NEG-QUAT-014,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+20.446,85.99041,NEG-HYDR-037,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+21.15,79.42,Tumsar Mn Belt,Maharashtra,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.52993,75.36134,NEG-VERT-038,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+12.33059,77.25166,NEG-CHAR-044,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+19.60766,75.31055,NEG-VERT-040,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.10991,74.91896,NEG-VERT-037,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.76843,75.79027,NEG-VERT-001,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.72187,71.58795,NEG-AEOL-003,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.91651,75.95144,NEG-VERT-044,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+18.81637,76.3808,NEG-VERT-009,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+27.49508,80.79287,NEG-QUAT-043,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+20.50241,86.74695,NEG-HYDR-016,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.85,86.25,Sukinda Mn Zone,Odisha,IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.89569,77.82497,NEG-CHAR-029,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.74419,72.88955,NEG-AEOL-000,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+15.5,76.8,Koppal Mn Deposits,Karnataka,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.24026,85.85059,NEG-HYDR-048,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.87415,71.82062,NEG-AEOL-002,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+21.45,79.1,Nagpur District Mn,Maharashtra,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.50298,86.63167,NEG-HYDR-014,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.76984,71.5145,NEG-AEOL-048,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+24.48057,78.30277,NEG-AREN-022,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+20.58733,85.89842,NEG-HYDR-041,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+21.95,79.15,Ramtek Mn Deposits,Maharashtra,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.81088,80.28034,NEG-QUAT-037,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+13.12946,77.55885,NEG-CHAR-013,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.28436,78.89122,NEG-QUAT-003,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.86852,86.28599,NEG-HYDR-017,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+19.03948,76.24163,NEG-VERT-039,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.76244,71.91502,NEG-AEOL-044,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+15.4,74.0,North Goa Mn Occurrences,Goa,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.28338,72.94117,NEG-AEOL-014,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.39973,77.86703,NEG-CHAR-030,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+19.35383,76.02303,NEG-VERT-035,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+21.7,85.3,Joda Mine Complex,Odisha,IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.7102,78.60622,NEG-CHAR-011,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+25.62706,80.21729,NEG-QUAT-047,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.8968,86.0247,NEG-HYDR-027,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+25.68182,78.71202,NEG-QUAT-044,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+25.55307,79.39477,NEG-QUAT-006,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+26.97595,72.62196,NEG-AEOL-011,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+23.95589,78.33358,NEG-AREN-010,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+27.14163,71.89598,NEG-AEOL-041,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.71246,78.55762,NEG-CHAR-012,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.0205,78.82213,NEG-AREN-001,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.34384,78.63409,NEG-QUAT-004,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+20.59612,86.44988,NEG-HYDR-025,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+27.07013,72.42907,NEG-AEOL-019,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+25.84228,81.78107,NEG-QUAT-028,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+21.32,78.95,Mansar Mn Deposits,Maharashtra,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.1442,71.77874,NEG-AEOL-015,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.87754,86.23105,NEG-HYDR-038,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+12.79023,77.98388,NEG-CHAR-035,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+21.9,79.5,Katangi Mn Belt,Madhya Pradesh,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+21.67,80.34,Bharweli Mine,Madhya Pradesh,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.033,75.49427,NEG-VERT-041,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.97294,81.54515,NEG-QUAT-002,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+18.91141,76.1882,NEG-VERT-018,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+22.14,78.62,Sausar Group Deposits,Madhya Pradesh,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+27.47905,81.38,NEG-QUAT-030,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.97361,75.71157,NEG-VERT-025,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+12.78166,77.69728,NEG-CHAR-048,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+12.67116,77.24854,NEG-CHAR-000,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+20.95,86.1,Jajpur Mn District,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.28718,85.95284,NEG-HYDR-009,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.15048,86.31758,NEG-HYDR-026,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+12.35163,78.21591,NEG-CHAR-001,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.17716,71.51173,NEG-AEOL-034,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+18.7782,75.51476,NEG-VERT-043,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+11.82853,77.47429,NEG-CHAR-014,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+23.95735,77.5723,NEG-AREN-036,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+27.50074,72.55531,NEG-AEOL-032,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+22.65,86.15,Chaibasa Mn Deposits,Jharkhand,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.95856,75.10357,NEG-VERT-027,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.63873,75.94007,NEG-VERT-036,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+26.66515,71.73662,NEG-AEOL-031,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+27.33422,72.32752,NEG-AEOL-047,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+14.75,76.25,Holalkere Mn Zone,Karnataka,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.09697,78.6361,NEG-CHAR-046,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+20.04601,85.85793,NEG-HYDR-015,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.90513,72.77908,NEG-AEOL-013,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+21.3,85.8,Gua Mn Deposits,Odisha,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+23.77196,78.34779,NEG-AREN-027,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+21.72,80.25,Waraseoni Mn Area,Madhya Pradesh,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.85537,86.5606,NEG-HYDR-018,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+21.82,85.42,Keonjhar Mn Deposits,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+21.63,85.58,Joda–Barbil Mn Belt,Odisha,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.13886,86.26702,NEG-HYDR-039,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.36767,72.57429,NEG-AEOL-022,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+22.45,78.1,Betul Mn Occurrences,Madhya Pradesh,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+25.93728,80.7741,NEG-QUAT-005,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+25.65958,79.54756,NEG-QUAT-022,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.16336,75.30261,NEG-VERT-042,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.85849,75.15713,NEG-VERT-005,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+22.06,78.94,Chhindwara Mn Belt,Madhya Pradesh,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.76686,78.32904,NEG-CHAR-025,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.03396,82.71495,NEG-QUAT-026,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+20.1545,86.66135,NEG-HYDR-047,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+19.8655,75.7275,NEG-VERT-000,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+19.71348,75.18691,NEG-VERT-020,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+24.00211,78.64255,NEG-AREN-019,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+14.45,75.8,Honnali Mn Belt,Karnataka,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.02976,79.60982,NEG-QUAT-039,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.13927,75.7802,NEG-VERT-032,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+18.12,83.42,Vizianagaram Mn Belt,Andhra Pradesh,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.59943,86.63603,NEG-HYDR-049,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+27.52299,71.63845,NEG-AEOL-043,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+27.72317,72.99313,NEG-AEOL-007,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+26.90914,78.70621,NEG-QUAT-020,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.44869,75.66942,NEG-VERT-031,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+21.38,85.65,Gurumahisani Mn,Odisha,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.23144,86.52993,NEG-HYDR-023,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+23.55,74.45,Banswara Mn Belt,Rajasthan,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.49023,72.40724,NEG-AEOL-039,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+20.13851,86.0118,NEG-HYDR-022,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.1805,79.19966,NEG-QUAT-011,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+24.04381,77.63917,NEG-AREN-012,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.82103,76.25961,NEG-VERT-017,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+21.81,80.19,Balaghat Mn District,Madhya Pradesh,GSI/IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+23.91842,77.21061,NEG-AREN-040,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+24.155,78.91007,NEG-AREN-021,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+11.94775,78.92942,NEG-CHAR-033,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.22341,81.09808,NEG-QUAT-019,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+18.95661,76.00493,NEG-VERT-033,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+24.48693,78.53858,NEG-AREN-025,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+27.00038,72.57761,NEG-AEOL-008,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+27.2917,71.8054,NEG-AEOL-040,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+27.41443,80.01468,NEG-QUAT-012,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+27.1941,72.9084,NEG-AEOL-036,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+23.71388,78.45344,NEG-AREN-011,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.73505,75.25357,NEG-VERT-015,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+21.9,85.15,Champua Mn Deposits,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.13187,71.81973,NEG-AEOL-028,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+24.19623,77.80334,NEG-AREN-004,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+21.75,80.05,Tirodi Mine,Madhya Pradesh,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+18.60237,76.37348,NEG-VERT-034,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+20.54841,86.37104,NEG-HYDR-035,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+25.94088,81.1517,NEG-QUAT-008,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+12.50835,77.81422,NEG-CHAR-031,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+23.96216,78.82871,NEG-AREN-037,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+23.75439,78.44911,NEG-AREN-033,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.66917,82.5402,NEG-QUAT-041,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+23.96092,78.54553,NEG-AREN-043,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+24.32606,78.58608,NEG-AREN-014,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.99985,86.72327,NEG-HYDR-046,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+23.71904,77.24397,NEG-AREN-007,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+12.58956,77.59234,NEG-CHAR-016,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.40027,78.55205,NEG-AREN-005,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+24.14249,78.45194,NEG-AREN-038,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.68215,72.97796,NEG-AEOL-004,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+14.85,76.1,Kumsi Mn Deposits,Karnataka,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+23.69348,78.92434,NEG-AREN-016,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.72313,76.26891,NEG-VERT-014,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+12.27647,78.78458,NEG-CHAR-047,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.01413,77.42973,NEG-AREN-049,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+23.88693,78.55626,NEG-AREN-041,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+23.98638,77.58466,NEG-AREN-000,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.96092,86.11172,NEG-HYDR-024,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+24.43879,78.91617,NEG-AREN-042,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.77885,78.61255,NEG-QUAT-000,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+27.25274,79.91605,NEG-QUAT-036,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+27.08416,80.39972,NEG-QUAT-046,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+18.60057,75.28775,NEG-VERT-047,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+12.23674,78.41923,NEG-CHAR-022,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+19.88924,86.23477,NEG-HYDR-003,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.48934,86.04866,NEG-HYDR-043,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+27.47079,71.94907,NEG-AEOL-035,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+20.07047,86.38831,NEG-HYDR-028,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.18023,86.3498,NEG-HYDR-020,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+12.45059,78.2986,NEG-CHAR-043,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+11.8704,77.88239,NEG-CHAR-004,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.25707,80.98418,NEG-QUAT-017,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+19.94755,75.25129,NEG-VERT-028,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+27.1468,71.89293,NEG-AEOL-046,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.51659,75.59048,NEG-VERT-049,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+24.43471,77.33109,NEG-AREN-009,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+24.22166,77.20998,NEG-AREN-013,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+20.01346,86.44096,NEG-HYDR-002,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+22.0,84.95,Rajgangpur Mn Area,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.98315,86.70542,NEG-HYDR-031,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.13544,72.82466,NEG-AEOL-049,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+26.47737,72.67611,NEG-AEOL-005,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.82731,78.93785,NEG-CHAR-036,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+20.4229,86.33035,NEG-HYDR-011,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+22.25,84.5,Bonai Mn Belt,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+27.74368,72.36877,NEG-AEOL-010,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+13.14144,77.91398,NEG-CHAR-023,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+20.48771,85.87086,NEG-HYDR-032,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+23.94836,78.1767,NEG-AREN-035,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.61996,75.33325,NEG-VERT-030,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+11.96948,78.97092,NEG-CHAR-028,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+12.99133,77.52731,NEG-CHAR-045,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.06975,77.29039,NEG-AREN-017,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.6139,81.58076,NEG-QUAT-031,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+14.6,76.4,Chitradurga Mn District,Karnataka,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.85679,86.4311,NEG-HYDR-030,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.34537,86.33697,NEG-HYDR-001,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+26.56912,72.6278,NEG-AEOL-025,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+27.10102,72.98085,NEG-AEOL-033,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+26.79607,81.24109,NEG-QUAT-027,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+27.58556,72.81891,NEG-AEOL-030,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.91493,74.99608,NEG-VERT-026,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+11.97671,78.40503,NEG-CHAR-015,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+11.82714,78.17095,NEG-CHAR-009,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+18.3,83.9,Garbham Mn Deposits,Andhra Pradesh,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+12.98941,78.6802,NEG-CHAR-032,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+23.94475,77.49708,NEG-AREN-048,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+20.1221,86.1393,NEG-HYDR-042,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.41001,86.33938,NEG-HYDR-010,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+21.5,85.75,Barbil Mine Area,Odisha,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+14.22,75.57,Shimoga Mn Belt,Karnataka,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.2988,79.48694,NEG-QUAT-042,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+24.44241,78.57807,NEG-AREN-039,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+26.47736,72.89989,NEG-AEOL-029,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+19.95217,86.24861,NEG-HYDR-044,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+24.02214,77.66654,NEG-AREN-026,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+15.0,76.5,Hospet Mn Area,Karnataka,IBM,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.24172,71.67314,NEG-AEOL-037,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+26.79977,80.95224,NEG-QUAT-007,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+23.77412,78.72701,NEG-AREN-018,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+18.75176,75.53876,NEG-VERT-029,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+22.1,84.77,Sundargarh Mn Belt,Odisha,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.98409,86.02022,NEG-HYDR-029,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+11.98998,78.03106,NEG-CHAR-003,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.7546,72.37551,NEG-AEOL-020,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+27.79722,72.99414,NEG-AEOL-027,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+22.3,73.85,Shivrajpur Mn Deposits,Gujarat,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.19266,72.32984,NEG-AEOL-038,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.68982,78.69167,NEG-CHAR-034,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+13.03428,77.63895,NEG-CHAR-042,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.07106,72.51282,NEG-AEOL-016,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+20.16298,86.75382,NEG-HYDR-004,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+25.702,79.75088,NEG-QUAT-023,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+12.94702,78.9365,NEG-CHAR-020,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+27.60252,71.86932,NEG-AEOL-018,West Rajasthan,Incompatible Zone: Thar Desert Margin,aeolian_sand,arid_aeolian,1.0,0
+12.17812,78.65476,NEG-CHAR-037,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+26.24036,79.44278,NEG-QUAT-025,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+21.87,79.88,Ukwa Mine,Madhya Pradesh,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+20.17814,86.58462,NEG-HYDR-036,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+23.74259,77.59496,NEG-AREN-045,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.95364,75.27451,NEG-VERT-023,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+20.20047,85.97865,NEG-HYDR-006,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+19.16893,75.85512,NEG-VERT-008,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+12.96302,77.35599,NEG-CHAR-041,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+11.94266,78.59047,NEG-CHAR-026,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+25.7193,81.32351,NEG-QUAT-045,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+23.79889,77.77548,NEG-AREN-031,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+22.3,78.5,Seoni District Mn,Madhya Pradesh,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+11.83794,78.35695,NEG-CHAR-002,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+24.37563,77.50544,NEG-AREN-002,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+19.81558,86.7291,NEG-HYDR-013,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.50068,86.06339,NEG-HYDR-005,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+24.58,73.71,Udaipur Mn Occurrences,Rajasthan,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+21.4,79.55,Sakoli Belt Deposits,Maharashtra,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+21.6,79.0,Manegaon Mine,Maharashtra,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+19.81045,76.45955,NEG-VERT-010,Maharashtra Plateau,Incompatible Zone: Central Maharashtra Basalt Trap,vertisol_black_cotton,semi_arid_trap,0.95,0
+23.97942,77.25224,NEG-AREN-046,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+14.95,76.7,Kudligi Mn Belt,Karnataka,MRDS,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+24.2912,78.1086,NEG-AREN-023,Central MP,Incompatible Zone: Upper Vindhyan Sandstone Basin,arenaceous_sandstone_soil,semi_arid_plateau,0.92,0
+12.17575,78.73308,NEG-CHAR-040,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0
+18.45,84.0,Srikakulam Mn Zone,Andhra Pradesh,Literature,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+27.11426,81.78379,NEG-QUAT-015,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+20.03876,86.43895,NEG-HYDR-008,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+20.41267,85.92839,NEG-HYDR-019,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+19.97139,85.93231,NEG-HYDR-034,Odisha/AP Coast,Incompatible Zone: Lower Coastal Deltaic Plains,hydromorphic_saline_alluvium,humid_coastal_lowland,1.0,0
+21.65,78.8,Saoner Mn Belt,Maharashtra,GSI,lateritic_gravelly_loam,tropical_wet_dry_supergene,1.0,1
+26.05006,79.50445,NEG-QUAT-001,Uttar Pradesh,Incompatible Zone: Gangetic-Yamuna Deep Alluvium,quaternary_alluvium,subhumid_alluvial,1.0,0
+11.95134,77.24622,NEG-CHAR-021,Tamil Nadu/South Karnataka,Incompatible Zone: Southern Charnockite/Granulite Plain,charnockitic_red_loam,semi_arid_peninsular,0.9,0

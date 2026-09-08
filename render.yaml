@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: strata-manganese-intelligence
+    env: docker
+    rootDir: strata
+    dockerfilePath: Dockerfile
+    dockerContext: .
+    plan: free
+    region: oregon
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 10000
