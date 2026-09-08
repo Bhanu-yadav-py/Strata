@@ -2,6 +2,7 @@ services:
   - type: web
     name: strata-manganese-intelligence
     env: docker
+    rootDir: strata
     dockerfilePath: Dockerfile
     dockerContext: .
     plan: free
